@@ -40,12 +40,12 @@ firstTitle: I'm
 secondTitle: Shivansh Singhania,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Full Stack
-secondTitle: Developer
+firstTitle: First year at
+secondTitle: MAIT
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: DEVREL.
+firstTitle: and 
+secondTitle: a passionate learner
 
 -- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
 role: $lib.home-description-responsive-typography
@@ -114,12 +114,12 @@ firstTitle: I'm
 secondTitle: Shivansh Singhania,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Full Stack
-secondTitle: Developer
+firstTitle: First year at
+secondTitle: MAIT
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: DevREL.
+secondTitle: a passionate learner
 
 -- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
 role: $lib.home-description-responsive-typography
