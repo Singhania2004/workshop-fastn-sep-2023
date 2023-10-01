@@ -134,11 +134,6 @@ align-content: center
 spacing.fixed.px: 10
 
 -- button.button:
-title: Email
-link: mailto:shivansh22rdps@gmail.com
-isNewTab: true
-
--- button.button:
 title: Instagram
 link: https://www.instagram.com/singhania_2004/
 isNewTab: true
