@@ -37,7 +37,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Krish Gupta,
+secondTitle: Shivansh Singhania,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: Full Stack
@@ -71,12 +71,12 @@ isNewTab: true
 
 -- button.button:
 title: LinkedIn
-link: https://linkedin.com/in/xkrishguptaa
+link: https://www.linkedin.com/in/shivansh-singhania-468516227
 isNewTab: true
 
 -- button.button:
 title: GitHub
-link: https://github.com/xkrishguptaa
+link: https://github.com/Singhania2004
 isNewTab: true
 
 -- end: ftd.column
