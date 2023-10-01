@@ -44,8 +44,8 @@ firstTitle: First year at
 secondTitle: MAIT
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and 
-secondTitle: a passionate learner
+firstTitle: In branch
+secondTitle: CSE
 
 -- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
 role: $lib.home-description-responsive-typography
@@ -118,8 +118,8 @@ firstTitle: First year at
 secondTitle: MAIT
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: a passionate learner
+firstTitle: In branch
+secondTitle: CSE
 
 -- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
 role: $lib.home-description-responsive-typography
