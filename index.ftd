@@ -47,7 +47,7 @@ secondTitle: MAIT
 firstTitle: In branch
 secondTitle: CSE
 
--- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
+-- ftd.text: A fresher with a hunger for knowledge and a passion to learn and grow
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -121,7 +121,7 @@ secondTitle: MAIT
 firstTitle: In branch
 secondTitle: CSE
 
--- ftd.text: Developing experiences that your users will never forget. Web Performance and Accessibility Expert with a passion for building beautiful and functional user interfaces.
+-- ftd.text: A fresher with a hunger for knowledge and a passion to learn and grow
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -132,6 +132,11 @@ white-space: normal
 width: fill-container
 align-content: center
 spacing.fixed.px: 10
+
+-- button.button:
+title: Email
+link: mailto:shivansh22rdps@gmail.com
+isNewTab: true
 
 -- button.button:
 title: Instagram
